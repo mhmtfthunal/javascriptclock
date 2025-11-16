@@ -35,11 +35,3 @@ cd javascriptclock
 
 Ardından `index.html` dosyasını tarayıcınızda açın.
 
-## 👨‍💻 Geliştirici
-
-Kodluyoruz Frontend Patikası - JavaScript Ödevi
-
-## 📄 Lisans
-
-Bu proje eğitim amaçlı hazırlanmıştır.
-
